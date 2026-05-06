@@ -1,3 +1,6 @@
+API paths
+
+
 | URL                   | METHOD                                      | USER LEVEL     | DESCRIPTION                                                                     |
 | -------------------------- | ----------------------------------------- | ---------- | --------------------------------------------------------------------------- |
 | /auth/token/login/         | POST                                     | anyone        | login with a correct username and password and will generate token that can be used to request other urls                                                           |
